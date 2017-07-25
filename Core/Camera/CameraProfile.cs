@@ -76,6 +76,12 @@ namespace GMaster.Core.Camera
                 {
                     SetDeviceName = false,
                 }
+            },
+            {
+                "DMC-SZ10", new CameraProfile
+                {
+                    RequestConnection = false,
+                }
             }
         };
 
